@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pawsitiveimpact.us/static/css/main.da47b561.css",
-    "main.js": "/pawsitiveimpact.us/static/js/main.bd45ee88.js",
-    "static/js/488.b00168de.chunk.js": "/pawsitiveimpact.us/static/js/488.b00168de.chunk.js",
-    "static/media/Carolina.png": "/pawsitiveimpact.us/static/media/Carolina.a13072c66c65128e6931.png",
-    "static/media/Sugar-Plum.png": "/pawsitiveimpact.us/static/media/Sugar-Plum.b9a7ccd2e3dfc229d2da.png",
-    "index.html": "/pawsitiveimpact.us/index.html",
-    "main.da47b561.css.map": "/pawsitiveimpact.us/static/css/main.da47b561.css.map",
-    "main.bd45ee88.js.map": "/pawsitiveimpact.us/static/js/main.bd45ee88.js.map",
-    "488.b00168de.chunk.js.map": "/pawsitiveimpact.us/static/js/488.b00168de.chunk.js.map"
+    "main.css": "/pawsitiveimpact/static/css/main.da47b561.css",
+    "main.js": "/pawsitiveimpact/static/js/main.8b58766b.js",
+    "static/js/488.b00168de.chunk.js": "/pawsitiveimpact/static/js/488.b00168de.chunk.js",
+    "static/media/Carolina.png": "/pawsitiveimpact/static/media/Carolina.a13072c66c65128e6931.png",
+    "static/media/Sugar-Plum.png": "/pawsitiveimpact/static/media/Sugar-Plum.b9a7ccd2e3dfc229d2da.png",
+    "index.html": "/pawsitiveimpact/index.html",
+    "main.da47b561.css.map": "/pawsitiveimpact/static/css/main.da47b561.css.map",
+    "main.8b58766b.js.map": "/pawsitiveimpact/static/js/main.8b58766b.js.map",
+    "488.b00168de.chunk.js.map": "/pawsitiveimpact/static/js/488.b00168de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da47b561.css",
-    "static/js/main.bd45ee88.js"
+    "static/js/main.8b58766b.js"
   ]
 }

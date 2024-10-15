@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.da47b561.css",
-    "main.js": "/static/js/main.ee1c51a1.js",
+    "main.js": "/static/js/main.70e61db8.js",
     "static/js/488.b00168de.chunk.js": "/static/js/488.b00168de.chunk.js",
     "static/media/Carolina.png": "/static/media/Carolina.a13072c66c65128e6931.png",
     "static/media/Sugar-Plum.png": "/static/media/Sugar-Plum.b9a7ccd2e3dfc229d2da.png",
     "index.html": "/index.html",
     "main.da47b561.css.map": "/static/css/main.da47b561.css.map",
-    "main.ee1c51a1.js.map": "/static/js/main.ee1c51a1.js.map",
+    "main.70e61db8.js.map": "/static/js/main.70e61db8.js.map",
     "488.b00168de.chunk.js.map": "/static/js/488.b00168de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da47b561.css",
-    "static/js/main.ee1c51a1.js"
+    "static/js/main.70e61db8.js"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pawsitiveimpact.github.io/static/css/main.da47b561.css",
+    "main.js": "/pawsitiveimpact.github.io/static/js/main.2ce42c95.js",
+    "static/js/488.b00168de.chunk.js": "/pawsitiveimpact.github.io/static/js/488.b00168de.chunk.js",
+    "static/media/Carolina.png": "/pawsitiveimpact.github.io/static/media/Carolina.a13072c66c65128e6931.png",
+    "static/media/Sugar-Plum.png": "/pawsitiveimpact.github.io/static/media/Sugar-Plum.b9a7ccd2e3dfc229d2da.png",
+    "index.html": "/pawsitiveimpact.github.io/index.html",
+    "main.da47b561.css.map": "/pawsitiveimpact.github.io/static/css/main.da47b561.css.map",
+    "main.2ce42c95.js.map": "/pawsitiveimpact.github.io/static/js/main.2ce42c95.js.map",
+    "488.b00168de.chunk.js.map": "/pawsitiveimpact.github.io/static/js/488.b00168de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da47b561.css",
+    "static/js/main.2ce42c95.js"
+  ]
+}
